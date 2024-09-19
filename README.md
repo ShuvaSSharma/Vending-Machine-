@@ -1,4 +1,4 @@
-                                    ** First Capstone Project for Merit America **
+                             ** First Capstone Project for Merit America **
 Worked in a team of 4 developers to create a backend java program that displays and allows users to insert virtual money and purchase various snacks through the command-line. 
 I was in charge of logging transactions and generating sales reports. 
 Also, I contributed to writing tests cases ensuring our product worked seamlessly. 
